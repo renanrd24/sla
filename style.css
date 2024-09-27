@@ -1,0 +1,28 @@
+body{
+background-color: green;
+padding: 0px;
+}
+
+.titulo{
+    background-color: blue;
+    justify-items: center;
+    display: grid;
+    font-size: 3rem;
+}
+
+p{
+    font-weight: 600;
+}
+
+img{
+    width: 100px;
+    display: block;
+}
+
+.images{
+    width: 600px;
+}
+
+.tradições{
+    
+}
